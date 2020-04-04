@@ -48,6 +48,10 @@ class MainActivity : AppCompatActivity() {
 
     }
 
+    fun BranchA(){
+        // example branch A
+    }
+
 
 
 }
