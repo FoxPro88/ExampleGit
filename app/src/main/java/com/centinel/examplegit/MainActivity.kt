@@ -53,5 +53,10 @@ class MainActivity : AppCompatActivity() {
     }
 
 
+    fun ExampleMaster1(){
+        // commit branch master
+    }
+
+
 
 }
