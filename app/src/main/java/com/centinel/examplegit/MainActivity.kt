@@ -61,6 +61,10 @@ class MainActivity : AppCompatActivity() {
         // commit branch master
     }
 
+    fun ExampleBranchB(){
+        //example branchB
+    }
+
 
 
 }
