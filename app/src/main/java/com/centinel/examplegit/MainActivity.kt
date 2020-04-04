@@ -68,7 +68,7 @@ class MainActivity : AppCompatActivity() {
 
     fun ExampleMerge(c : Int, d : Int) : Int{
         // example de merge
-        return c + d
+        return c - d
     }
 
 
