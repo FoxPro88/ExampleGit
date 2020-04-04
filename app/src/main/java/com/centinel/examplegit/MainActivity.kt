@@ -39,6 +39,15 @@ class MainActivity : AppCompatActivity() {
 
     fun ExampleA(){
         // ejemplo para la rama master
+
+        var a = 1000
+
+        var b = 2000
+
+        var c = a + b
+
     }
+
+
 
 }
