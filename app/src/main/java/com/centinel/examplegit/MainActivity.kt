@@ -59,10 +59,16 @@ class MainActivity : AppCompatActivity() {
 
     fun ExampleMaster1(){
         // commit branch master
+
     }
 
     fun ExampleBranchB(){
         //example branchB
+    }
+
+    fun ExampleMerge(a : Int, b : Int) : Int{
+        // example de merge
+        return a + b
     }
 
 
