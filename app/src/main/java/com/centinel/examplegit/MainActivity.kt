@@ -66,9 +66,9 @@ class MainActivity : AppCompatActivity() {
         //example branchB
     }
 
-    fun ExampleMerge(a : Int, b : Int) : Int{
+    fun ExampleMerge(c : Int, d : Int) : Int{
         // example de merge
-        return a + b
+        return c + d
     }
 
 
