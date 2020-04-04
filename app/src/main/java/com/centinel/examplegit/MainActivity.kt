@@ -49,5 +49,10 @@ class MainActivity : AppCompatActivity() {
     }
 
 
+    fun branchMaster(){
+        //rama master
+    }
+
+
 
 }
